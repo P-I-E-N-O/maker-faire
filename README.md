@@ -88,4 +88,16 @@ This work is partially supported by MOST – Sustainable Mobility National Resea
   note         = {Conference paper},
   url          = {https://www.researchgate.net/publication/396507184_RI-PIENO_-Revised_and_Improved_Petrol-Filling_Itinerary_Estimation_aNd_Optimization}
 }
+
+@ARTICLE{savarese2024pieno,
+  author={Savarese, Marco and De Blasi, Antonio and Zaccagnino, Carmine and Grazia, Carlo Augusto},
+  journal={IEEE Access},
+  title={{P. I. E. N. O.}–{P}etrol-Filling {I}tinerary {E}stimation a{N}d {O}ptimization},
+  year={2024},
+  volume={12},
+  number={},
+  pages={158094-158102},
+  keywords={Fuels;Optimization;Estimation;Bridges;Routing;Standards;Routing protocols;Real-time systems;Mobile applications;Market research;Artificial Intelligence;cloud computing;edge computing;intelligent transportation systems;microcontrollers;mobile communication;mobile applications;smart mobility;smart transportation;time series analysis;vehicle-to-everything},
+  doi={10.1109/ACCESS.2024.3483959}
+}
 ```
